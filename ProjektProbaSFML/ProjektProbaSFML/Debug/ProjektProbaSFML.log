@@ -1,0 +1,5 @@
+﻿  city.cpp
+  game_main.cpp
+c:\users\cycuw\source\repos\projektprobasfml\projektprobasfml\game_main.cpp(86): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  ProjektProbaSFML.vcxproj -> C:\Users\cycuw\source\repos\ProjektProbaSFML\Debug\ProjektProbaSFML.exe

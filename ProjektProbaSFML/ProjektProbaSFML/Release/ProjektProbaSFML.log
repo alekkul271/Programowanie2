@@ -1,0 +1,18 @@
+﻿  game_main.cpp
+c:\users\cycuw\source\repos\projektprobasfml\projektprobasfml\game_main.cpp(77): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  protagonis.cpp
+  Standby.cpp
+c:\users\cycuw\source\repos\projektprobasfml\projektprobasfml\standby.cpp(10): warning C4244: "=": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+c:\users\cycuw\source\repos\projektprobasfml\projektprobasfml\standby.cpp(11): warning C4244: "=": konwersja z "float" do "T", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Trwa generowanie kodu
+  All 124 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  ProjektProbaSFML.vcxproj -> C:\Users\cycuw\source\repos\ProjektProbaSFML\Release\ProjektProbaSFML.exe
